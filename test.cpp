@@ -1,0 +1,5 @@
+class tests
+{
+	public:
+		test();
+}
